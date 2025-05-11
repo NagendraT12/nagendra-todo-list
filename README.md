@@ -23,7 +23,7 @@ Hi! I'm Nagendra, and I created this To-Do List application as part of my web de
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/NagendraT12/nagendra-todo-list
 cd todo-list-app
 ```
 
